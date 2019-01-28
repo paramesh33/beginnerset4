@@ -5,4 +5,4 @@ for x in range(n):
     a=input();
     data.append(int(a));
 data.sort();
-print(data(k));
+print(data(k-1));
