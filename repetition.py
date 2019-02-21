@@ -1,3 +1,4 @@
 a=str(input());
 b=int(input());
-print(a*b);
+for i in range(b):
+  print(a);
