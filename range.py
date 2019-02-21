@@ -4,5 +4,5 @@ for x in range(1,10):
   if N==x:
     count=count+1;
 if count==1:
-    print("Yes");
+    print("yes");
 else:print("no");
