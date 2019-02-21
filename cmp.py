@@ -5,4 +5,4 @@ if a>b:
   print(x);
 elif b>a:
   print(y);
-else:print(x);
+else:print(y);
